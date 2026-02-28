@@ -35,3 +35,4 @@ Displays EC2 instance ID after deployment.
 - Add VPC
 - Add Security Groups
 - Add Auto Scaling
+# SSH Test
